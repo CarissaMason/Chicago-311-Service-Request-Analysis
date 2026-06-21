@@ -61,9 +61,7 @@ Chicago resolves a typical 311 request in approximately **9 days**, but that cit
 | `README.md` | This file |
 | `analysis.sql` | All SQL queries, commented |
 | `311_clean.ipynb` | Python/pandas cleaning notebook |
-| `chicago_311_resolved.csv` | Cleaned data — resolved requests (timing analysis) |
-| `chicago_311_all.csv` | Cleaned data — all requests (volume analysis) |
-
+***Note:*** Data not included due to size — download the source 311 dataset [here](https://data.cityofchicago.org/Service-Requests/311-Service-Requests/v6vf-nfxy) and run the cleaning notebook to reproduce.
 ## Tools
 
 Python (pandas) · SQL (SQLite) · Tableau Public
