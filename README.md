@@ -4,7 +4,7 @@
 
 An end-to-end analysis of Chicago's 311 service requests from raw city data to an interactive dashboard, examining how service resolution times vary by request type, by ward, and across the year.
 
-🔗 **[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/carissa.mason/viz/Chicago311ServiceRequestResponseTimes/Dashboard1)**
+**[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/carissa.mason/viz/Chicago311ServiceRequestResponseTimes/Dashboard1)**
 
 ---
 
